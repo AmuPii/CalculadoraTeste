@@ -1,0 +1,1 @@
+iniciando projetos com python. calculadora simples com meu conhecimento + Fix pela IA. (python + vibe coding)
